@@ -15,6 +15,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 var _glMatrix = require('gl-matrix');
 
 var _glMatrix2 = _interopRequireDefault(_glMatrix);
+_glMatrix2.default = _glMatrix2;
 
 var _coordinates = require('../geometry/coordinates');
 
